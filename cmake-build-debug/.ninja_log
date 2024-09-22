@@ -1,0 +1,8 @@
+# ninja log v6
+2	59	1727018690641021992	build.ninja	72854143509eaa4b
+7	798	1727018380020471725	CMakeFiles/projeto_bolo.dir/Principal.cpp.o	93a9fbcb067a44f4
+11	3597	1727018425641951826	CMakeFiles/projeto_bolo.dir/main.cpp.o	cf2dc80121ba55d9
+8	801	1727018380021548648	CMakeFiles/projeto_bolo.dir/EntradaSaida.cpp.o	bdafedf46b7bf7fe
+2	54	1727018690641021992	build.ninja	72854143509eaa4b
+5	581	1727018690652280332	CMakeFiles/projeto_bolo.dir/Bolo.cpp.o	fb7398860a6e5165
+581	627	1727018691227501409	projeto_bolo	fbed9ff04b6eb29d
